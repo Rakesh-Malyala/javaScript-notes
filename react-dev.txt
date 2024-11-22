@@ -1,0 +1,2 @@
+A component is a piece of the UI (user interface) that has its own logic and appearance.
+React components are JavaScript functions that return markup.
